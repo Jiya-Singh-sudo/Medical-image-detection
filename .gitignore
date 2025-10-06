@@ -1,0 +1,28 @@
+# Ignore Python virtual environment folders
+venv/
+env/
+histology_env/
+.venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore build and distribution files
+build/
+dist/
+*.egg-info/
+
+# Ignore system or IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs
+*.log
